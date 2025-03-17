@@ -10,10 +10,6 @@ module.exports = {
       fontFamily: {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
       },
-      colors: {
-        primary: "#1E3A8A", // Màu chủ đạo
-        secondary: "#9333EA", // Màu phụ
-      },
       screens: {
         '3xl': "1920px", // 120em
         '2.5xl': "1504px", // 94em
