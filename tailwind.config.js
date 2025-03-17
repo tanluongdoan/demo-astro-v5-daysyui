@@ -11,14 +11,14 @@ module.exports = {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
       },
       screens: {
-        '3xl': "1920px", // 120em
-        '2.5xl': "1504px", // 94em
-        '2xl': "1280px", // 80em
-        'xl': "1200px", // 75em
-        'lg': "992px", // 62em
-        'md': "768px", // 48em
-        'sm': "480px", // 30em
-        'xs': "320px", // 20em
+        '3xl': "120em", // 120em 1920px
+        '2.5xl': "94em", // 94em 1504px
+        '2xl': "80em", // 80em 1280px
+        'xl': "75em", // 75em 1200px
+        'lg': "62em", // 62em 992px
+        'md': "48em", // 48em 768px
+        'sm': "30em", // 30em 480px
+        'xs': "20em", // 20em 320px
       },
     },
   },
