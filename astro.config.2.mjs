@@ -11,6 +11,6 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
   srcDir: './src-2',
-  // outDir: './dist-2',
+  outDir: './dist-2',
   integrations: [react()]
 });

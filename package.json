@@ -5,8 +5,8 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "dev:custom": "astro dev --config astro.config.2.mjs",
-    "build:custom": "astro build --config astro.config.2.mjs",
+    "dev:custom": "  astro dev --config astro.config.2.mjs",
+    "build:custom": " astro build --config astro.config.2.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },
